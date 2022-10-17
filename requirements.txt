@@ -2,17 +2,11 @@
 
 pandas
 numpy
-tabula
-pdf2docx
-docx2txt
-PyPDF2
-pdf
-konlpy
-nltk
 ipykernel
 virtualenv
 requests
 BeautifulSoup4
 selenium
-natsort
 seaborn
+pandas-datareader
+scipy
