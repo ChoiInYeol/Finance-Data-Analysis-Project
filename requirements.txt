@@ -10,3 +10,4 @@ selenium
 seaborn
 pandas-datareader
 scipy
+dx
