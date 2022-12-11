@@ -131,3 +131,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 >>>>>>> 2d9e84cecd9239f30f58bf46fab9b2a904c71ea8
+
+sp500_price
