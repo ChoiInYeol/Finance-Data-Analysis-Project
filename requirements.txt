@@ -1,13 +1,12 @@
 #pip install -r requirements.txt
 
+csv
 pandas
+sklearn
 numpy
-ipykernel
-virtualenv
-requests
-BeautifulSoup4
-selenium
-seaborn
-pandas-datareader
-scipy
-dx
+matplotlib
+datetime
+FinanceDataReader
+tensorflow
+tensorflow_probability
+keras
